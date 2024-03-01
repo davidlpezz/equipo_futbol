@@ -1,3 +1,45 @@
+# Encabezado 1
+
+* elemento 1 lista
+  * elemento 1.1   
+
+* elemento 2 lista
+  * elemento 2.1
+  * elemento 2.2 
+
+* elemento 3
+
+![GitHub Logo](/descargas/pc.jpg)
+Format: ![Imagen de un ordenador](url)
+
+**este texto esta en negrita**
+
+*este texto esta en cursiva*
+
+[GitHub]([http://github.com](https://www.iesvenancioblanco.es/))
+
+Como Mahatma Gandhi dijo: 
+
+>No hay caminos
+>para la paz
+>la paz es
+>el camino.
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
+
+Primer       | segundo            
+encabezado   | encabezado
+------------ | -------------
+celda 1      | celda  2
+columna 1    | columna 2
+
+
+
+
+
+
 Thanks for downloading this theme!
 
 ## Other Useful Links
@@ -29,5 +71,26 @@ Alternatively, here's our top most trending and selling items:
 * [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
 * [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
 * [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
